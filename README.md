@@ -19,4 +19,4 @@
     <li>A modification option will be implemented.</li>
     </ul>
 <h2>License</h2>
-    This project is licensed under the <a href="https://github.com/mp-gutierrez/realtime_busTracker/blob/main/LICENSE"> MIT License</a>.
+    This project is licensed under the <a href="https://github.com/mp-gutierrez/to-do-list/blob/main/LICENSE"> MIT License</a>.
